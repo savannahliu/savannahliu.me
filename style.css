@@ -1,0 +1,19 @@
+body {
+  background-color: mistyrose;
+  padding-top: 10%;
+}
+
+#text {
+  color: salmon;
+  font-size: 50px;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.gif {
+  width: 25%;
+}
+
+.row {
+  display: inline-block;
+  vertical-align: middle;
+}
